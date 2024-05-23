@@ -9,5 +9,5 @@
 <h2> Navigation </h2>
 
 
-* Navigate here (https://jackrunge.github.io/belly-button-challenge) to view the dashboard!
+* Navigate [here] (https://jackrunge.github.io/belly-button-challenge) to view the dashboard!
 
